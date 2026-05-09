@@ -1,0 +1,25 @@
+name: Bug report
+description: Something is broken or behaving unexpectedly
+labels: ["type:bug", "status:triage"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what did you see?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Minimal reproducer
+      render: bash
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "Ubuntu 22.04, Python 3.11, Isaac Sim 4.x, ROS 2 Humble"
+    validations:
+      required: true
