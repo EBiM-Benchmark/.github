@@ -16,6 +16,6 @@ We use GitHub's private vulnerability reporting on public repos (Security tab â†
 
 ## Scope
 
-- All repositories under github.com/IROS-EBiM
+- All repositories under github.com/EBiM-Benchmark
 - The leaderboard backend (URL TBD)
 - The evaluation submission pipeline
