@@ -41,4 +41,4 @@ If the EBiM benchmark is useful for your research, please cite:
 
 ## Contact
 
-iros.ebim@gmail.com
+ebim.benchmark@gmail.com
