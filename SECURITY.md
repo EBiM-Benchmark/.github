@@ -8,7 +8,7 @@ Pre-release: the `main` branch of each repository is the only supported target. 
 
 **Do not open a public GitHub issue for security reports.**
 
-Email: ebim.benchmark@gmail.com
+Email: security@ebim-benchmark.org
 
 Reports are read by the organizing chairs.
 
