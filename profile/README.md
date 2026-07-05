@@ -12,6 +12,8 @@ A community benchmark and competition for embodied bimanual manipulation with th
 |---|---|---|
 | [ebim-benchmark.github.io](https://github.com/EBiM-Benchmark/ebim-benchmark.github.io) | Public | Project website |
 | [benchmark](https://github.com/EBiM-Benchmark/benchmark) | Private | Simulation benchmark environment (Isaac Sim / MuJoCo) |
+| [EBiM_Challenge](https://github.com/EBiM-Benchmark/EBiM_Challenge) | Private | Challenge task environments (Isaac Sim) |
+| [teleoperation](https://github.com/EBiM-Benchmark/teleoperation) | Private | Teleoperation stack for demonstration collection |
 | [baselines](https://github.com/EBiM-Benchmark/baselines) | Private | Reference baseline implementations |
 | [evaluation](https://github.com/EBiM-Benchmark/evaluation) | Private | Scoring infrastructure (held-out) |
 | [leaderboard](https://github.com/EBiM-Benchmark/leaderboard) | Public | Leaderboard frontend |
