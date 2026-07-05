@@ -8,19 +8,13 @@ A community benchmark and competition for embodied bimanual manipulation with th
 
 ## What's in this org
 
-| Repo | Visibility | Purpose |
-|---|---|---|
-| [ebim-benchmark.github.io](https://github.com/EBiM-Benchmark/ebim-benchmark.github.io) | Public | Project website |
-| [benchmark](https://github.com/EBiM-Benchmark/benchmark) | Private | Simulation benchmark environment (Isaac Sim / MuJoCo) |
-| [EBiM_Challenge](https://github.com/EBiM-Benchmark/EBiM_Challenge) | Private | Competition infrastructure (private until launch) |
-| [teleoperation](https://github.com/EBiM-Benchmark/teleoperation) | Private | Teleoperation stack for demonstration collection |
-| [baselines](https://github.com/EBiM-Benchmark/baselines) | Private | Reference baseline implementations |
-| [evaluation](https://github.com/EBiM-Benchmark/evaluation) | Private | Scoring infrastructure (held-out) |
-| [leaderboard](https://github.com/EBiM-Benchmark/leaderboard) | Public | Leaderboard frontend |
-| [leaderboard-backend](https://github.com/EBiM-Benchmark/leaderboard-backend) | Private | Submission API and database backend |
-| [robot-control](https://github.com/EBiM-Benchmark/robot-control) | Private | ROS 2 packages for Mobile FR3 Duo |
-| [dataset-tools](https://github.com/EBiM-Benchmark/dataset-tools) | Private | Data conversion and validation |
-| [handbook](https://github.com/EBiM-Benchmark/handbook) | Private | Organizer handbook (internal) |
+| Repo                                                                                   | Visibility | Purpose                                           |
+| -------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------- |
+| [ebim-benchmark.github.io](https://github.com/EBiM-Benchmark/ebim-benchmark.github.io) | Public     | Project website                                   |
+| [benchmark](https://github.com/EBiM-Benchmark/benchmark)                               | Private    | Competition infrastructure (private until launch) |
+| [teleoperation](https://github.com/EBiM-Benchmark/teleoperation)                       | Private    | Teleoperation stack for demonstration collection  |
+| [baselines](https://github.com/EBiM-Benchmark/baselines)                               | Private    | Reference baseline implementations                |
+| [handbook](https://github.com/EBiM-Benchmark/handbook)                                 | Private    | Organizer handbook (internal)                     |
 
 ## Citing
 
