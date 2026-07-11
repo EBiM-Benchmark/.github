@@ -24,7 +24,7 @@ If the EBiM benchmark is useful for your research, please cite:
 ```bibtex
 @misc{ebim2026,
   title  = {The EBiM Benchmark for Embodied Bimanual Manipulation},
-  author = {EBiM Organizing Committee},
+  author = {The EBiM Organizing Committee},
   year   = {2026},
   url    = {https://ebim-benchmark.github.io/}
 }
