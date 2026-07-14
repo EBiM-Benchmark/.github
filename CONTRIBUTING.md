@@ -2,7 +2,7 @@
 
 ## Who can contribute
 
-- Organizers: see OWNERSHIP.md for repo stewards.
+- Organizers: see each repo's CODEOWNERS for who reviews it.
 - External contributors: please open an issue to discuss before opening a PR.
 
 ## Branch model
@@ -14,7 +14,7 @@
 ## Pull request process
 
 1. Open a PR against `main`.
-2. CI runs lint + tests. Fix anything red.
+2. Where a repo has CI, fix anything red before you request review.
 3. Request a review from the relevant CODEOWNERS.
 4. Squash-merge. PR title becomes the commit message — see below.
 
