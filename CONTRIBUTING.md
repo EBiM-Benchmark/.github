@@ -9,7 +9,7 @@
 
 - `main` is always green. No direct pushes.
 - Work in branches named `<type>/<short-slug>`, e.g. `feat/handover-task`, `fix/gripper-tf`, `docs/dataset-format`.
-- Open a draft PR early. Mark "Ready for review" when CI is green.
+- Open a draft PR early. Mark "Ready for review" when any required checks are green (some repos have none).
 
 ## Pull request process
 
