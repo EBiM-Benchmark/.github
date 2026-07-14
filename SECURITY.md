@@ -19,4 +19,4 @@ We use GitHub's private vulnerability reporting on public repos (Security tab â†
 ## Scope
 
 - All repositories under github.com/EBiM-Benchmark
-- The competition submission process (GitHub issue forms in the submissions repository, once live)
+- The competition submission process (GitHub issue forms in the submissions repository)
