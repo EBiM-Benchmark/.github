@@ -18,6 +18,8 @@
 3. Request a review from the relevant CODEOWNERS.
 4. Squash-merge. PR title becomes the commit message — see below.
 
+**Heads-up on approvals and merging.** On our public repos, a pull-request approval is **automatically dismissed if you push any new commit after it** (`dismiss_stale_reviews_on_push` is enabled). So get all your commits in _before_ you request review — if you push again after a code owner approves, the approval is voided and you'll need a fresh review before you can merge. The clean sequence: finish your commits → request review → get the code-owner approval → merge without pushing again. (The repo's required status check, where it has one, must be green before merge.)
+
 ## Commit / PR title format
 
 `<type>: <imperative summary>`, e.g. `feat: add pick-and-place baseline`.
