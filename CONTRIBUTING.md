@@ -28,19 +28,6 @@ Allowed types: `feat`, `fix`, `docs`, `test`, `refactor`, `chore`, `perf`.
 
 This is the only convention we enforce.
 
-## Local setup
+## Repository-specific guidance
 
-```bash
-pip install -e ".[dev]"
-pre-commit install
-pre-commit run --all-files
-pytest
-```
-
-## Code style
-
-Run `pre-commit run --all-files` before pushing. Where a repo has CI, it will fail otherwise.
-
-## Reporting bugs
-
-Use the issue templates. Include OS, Python version, sim version, and a minimal reproducer.
+Setup, tooling (linting, formatting, tests), and the details a bug report needs differ per repository, so this guide stays repo-agnostic. For anything repo-specific, see the README in the repository you're contributing to, and use that repository's issue templates, where provided, to report bugs.
