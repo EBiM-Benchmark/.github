@@ -7,7 +7,7 @@
 
 ## Branch model
 
-- `main` is always green. No direct pushes.
+- `main` is always green. No direct pushes to repos with a branch ruleset; the rest are maintained by direct commit under the maintainers' review convention.
 - Work in branches named `<type>/<short-slug>`, e.g. `feat/handover-task`, `fix/gripper-tf`, `docs/dataset-format`.
 - Open a draft PR early. Mark "Ready for review" when any required checks are green (some repos have none).
 
@@ -39,7 +39,7 @@ pytest
 
 ## Code style
 
-Run `pre-commit run --all-files` before pushing. CI will fail otherwise.
+Run `pre-commit run --all-files` before pushing. Where a repo has CI, it will fail otherwise.
 
 ## Reporting bugs
 
