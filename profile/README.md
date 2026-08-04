@@ -13,7 +13,7 @@ A community benchmark and competition for embodied bimanual manipulation with th
 | [ebim-benchmark.github.io](https://github.com/EBiM-Benchmark/ebim-benchmark.github.io) | Public     | Project website                                   |
 | [submissions](https://github.com/EBiM-Benchmark/submissions)                           | Public     | Team submissions for the EBiM Competition 2026    |
 | [benchmark](https://github.com/EBiM-Benchmark/benchmark)                               | Public     | The EBiM Benchmark — task environments, simulation setups, and starter kits (developer preview) |
-| [teleoperation](https://github.com/EBiM-Benchmark/teleoperation)                       | Private    | Teleoperation stack for demonstration collection  |
+| [teleoperation](https://github.com/EBiM-Benchmark/teleoperation)                       | Public    | Teleoperation stack for demonstration collection  |
 | [baselines](https://github.com/EBiM-Benchmark/baselines)                               | Private    | Reference baseline implementations                |
 | [handbook](https://github.com/EBiM-Benchmark/handbook)                                 | Private    | Organizer handbook (internal)                     |
 
