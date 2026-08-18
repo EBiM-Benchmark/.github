@@ -4,7 +4,7 @@ A community benchmark and competition for embodied bimanual manipulation with th
 
 - Project site: <https://ebim-benchmark.github.io/>
 
-> **Status:** Alpha (2026). The simulation benchmark and competition launch is in final preparation — watch the project site for the announcement.
+> **Status:** The EBiM Competition 2026 is **running**. The simulation benchmark is live as a developer preview and submissions are open. The schedule lives on the [project site](https://ebim-benchmark.github.io/competition.html#call-for-participation) — it is the single source of truth and is not restated here.
 
 ## What's in this org
 
